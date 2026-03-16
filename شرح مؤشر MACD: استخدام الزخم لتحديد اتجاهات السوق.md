@@ -1,7 +1,7 @@
 <!--meta
 title: شرح مؤشر MACD: استخدام الزخم لتحديد اتجاهات السوق
 slug: macd-indicator-explained
-canonical_url: https://github.com/AhmedMTP/easyMarkets/blob/.md
+canonical_url: https://github.com/AhmedMTP/easyMarkets/blob/%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A/%D8%B4%D8%B1%D8%AD%20%D9%85%D8%A4%D8%B4%D8%B1%20MACD:%20%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%20%D8%A7%D9%84%D8%B2%D8%AE%D9%85%20%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF%20%D8%A7%D8%AA%D8%AC%D8%A7%D9%87%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B3%D9%88%D9%82.md
 keywords: MACD, how to use MACD, MACD crossover, MACD divergence, technical analysis indicators, forex MACD strategy, trend-following indicator, trading momentum
 meta_description: تعرّف على كيفية مساعدة مؤشر MACD للمتداولين في تحليل الزخم، وتأكيد الاتجاهات، واكتشاف إشارات التداول المحتملة باستخدام المتوسطات المتحركة والتقاطعات.
 "twitter_card": "easyMarkets"

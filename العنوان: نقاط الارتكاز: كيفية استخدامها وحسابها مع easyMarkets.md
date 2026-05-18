@@ -2,47 +2,12 @@
 العنوان: نقاط الارتكاز: كيفية استخدامها وحسابها مع easyMarkets
 العنوان المختصر: نقاط الارتكاز - كيفية استخدامها وحسابها باستخدام easyMarketsالرابط
 التاريخ:
-الكلمات المفتاحية: تداول نقاط الارتكاز، كيفية حساب نقاط الارتكاز، مستويات الدعم والمقاومة، أدوات التداول اليومي، استراتيجية نقاط الارتكاز، نقاط ارتكاز الفوركس
+الكلمات المفتاحية: \[تداول نقاط الارتكاز، كيفية حساب نقاط الارتكاز، مستويات الدعم والمقاومة، أدوات التداول اليومي، استراتيجية نقاط الارتكاز، نقاط ارتكاز الفوركس\]
 الكلمة الرئيسية: نقاط الارتكاز
 الوصف: تعلم كيفية حساب نقاط الارتكاز وتطبيقها لتحديد مستويات الدعم والمقاومة وتحسين قرارات التداول.
 -->
 
-<div dir="rtl" align="right" style="direction: rtl; text-align: right; unicode-bidi: isolate;">
-
-<style>
-  div[dir="rtl"] ul,
-  div[dir="rtl"] ol {
-    direction: rtl;
-    text-align: right;
-    padding-right: 1.5rem;
-    padding-left: 0;
-    margin-right: 0;
-    margin-left: 0;
-  }
-
-  div[dir="rtl"] li {
-    direction: rtl;
-    text-align: right;
-    unicode-bidi: isolate;
-  }
-
-  div[dir="rtl"] p,
-  div[dir="rtl"] h1,
-  div[dir="rtl"] h2,
-  div[dir="rtl"] h3,
-  div[dir="rtl"] h4,
-  div[dir="rtl"] h5,
-  div[dir="rtl"] h6 {
-    direction: rtl;
-    text-align: right;
-  }
-
-  div[dir="rtl"] img {
-    display: block;
-    margin-right: 0;
-    margin-left: auto;
-  }
-</style>
+<div dir="rtl" align="right">
 
 # كيفية استخدام نقاط الارتكاز وحسابها
 
@@ -56,10 +21,10 @@
 
 نقاط الارتكاز **هي مستويات دعم ومقاومة** محسوبة بناءً على أعلى وأدنى سعر وسعر إغلاق الجلسة السابقة. يستخدمها المتداولون من أجل:
 
-<ul dir="rtl" style="direction: rtl; text-align: right; padding-right: 1.5rem; padding-left: 0;">
-<li>تقييم معنويات السوق العامة، حيث يُنظر إلى السعر فوق نقطة الارتكاز غالبًا على أنه اتجاه صعودي، والسعر تحتها على أنه اتجاه هبوطي.</li>
-<li>تحديد المناطق التي قد ينعكس فيها السعر.</li>
-<li>تحسين توقيت دخول وخروج الصفقات.</li>
+<ul dir="rtl" align="right">
+<li dir="rtl" align="right">تقييم معنويات السوق العامة، حيث يُنظر إلى السعر فوق نقطة الارتكاز غالبًا على أنه اتجاه صعودي، والسعر تحتها على أنه اتجاه هبوطي.</li>
+<li dir="rtl" align="right">تحديد المناطق التي قد ينعكس فيها السعر.</li>
+<li dir="rtl" align="right">تحسين توقيت دخول وخروج الصفقات.</li>
 </ul>
 
 تُستخدم نقاط الارتكاز على نطاق واسع في تداول العملات الأجنبية والعقود الآجلة ومؤشرات الأسهم.
@@ -68,18 +33,18 @@
 
 تُستمد مستويات نقاط الارتكاز من ثلاث قيم رئيسية من جلسة التداول السابقة:
 
-<ul dir="rtl" style="direction: rtl; text-align: right; padding-right: 1.5rem; padding-left: 0;">
-<li>أعلى سعر</li>
-<li>أدنى سعر</li>
-<li>سعر الإغلاق</li>
+<ul dir="rtl" align="right">
+<li dir="rtl" align="right">أعلى سعر</li>
+<li dir="rtl" align="right">أدنى سعر</li>
+<li dir="rtl" align="right">سعر الإغلاق</li>
 </ul>
 
 توجد عدة طرق للحساب، ولكن أكثرها شيوعًا هو نظام النقاط الخمس. تُنتج هذه الطريقة ما يلي:
 
-<ul dir="rtl" style="direction: rtl; text-align: right; padding-right: 1.5rem; padding-left: 0;">
-<li>نقطة ارتكاز واحدة (P)</li>
-<li>مستويان للمقاومة (R1، R2)</li>
-<li>مستويان للدعم (S1، S2)</li>
+<ul dir="rtl" align="right">
+<li dir="rtl" align="right">نقطة ارتكاز واحدة (P)</li>
+<li dir="rtl" align="right">مستويان للمقاومة (R1، R2)</li>
+<li dir="rtl" align="right">مستويان للدعم (S1، S2)</li>
 </ul>
 
 الصيغ كالتالي:
@@ -114,11 +79,11 @@ S2 = P – (أعلى سعر – أدنى سعر)
 
 **في الأسواق التي تعمل على مدار 24 ساعة، مثل سوق الفوركس، غالبًا ما تُحسب أعلى وأدنى سعر وسعر الإغلاق بناءً على توقيت إغلاق بورصة نيويورك الساعة 5:00 مساءً بتوقيت شرق الولايات المتحدة. لرسم نقاط الارتكاز:**
 
-<ul dir="rtl" style="direction: rtl; text-align: right; padding-right: 1.5rem; padding-left: 0;">
-<li>راجع الرسم البياني [للشموع اليابانية](https://www.easy-markets.com/int/ar/learn-centre/understanding-analysis/identifying-candlestick-patterns-and-momentum/) **لليوم السابق**</li>
-<li>سجل أعلى وأدنى سعر وسعر الإغلاق</li>
-<li>طبق هذه القيم على المعادلات</li>
-<li>حدد المستويات الخمسة المحسوبة على الرسم البياني</li>
+<ul dir="rtl" align="right">
+<li dir="rtl" align="right">راجع الرسم البياني <a href="https://www.easy-markets.com/int/ar/learn-centre/understanding-analysis/identifying-candlestick-patterns-and-momentum/">للشموع اليابانية</a> <strong>لليوم السابق</strong></li>
+<li dir="rtl" align="right">سجل أعلى وأدنى سعر وسعر الإغلاق</li>
+<li dir="rtl" align="right">طبق هذه القيم على المعادلات</li>
+<li dir="rtl" align="right">حدد المستويات الخمسة المحسوبة على الرسم البياني</li>
 </ul>
 
 يمكن تطبيق هذه الطريقة أيضًا على **أطر زمنية أقصر**، مثل الرسوم البيانية للساعة الواحدة أو الخمس دقائق، وذلك حسب استراتيجية التداول المستخدمة.
@@ -127,20 +92,20 @@ S2 = P – (أعلى سعر – أدنى سعر)
 
 بافتراض أن التداول يتم في 15 يناير، باستخدام بيانات 14 كانون الثاني:
 
-<ul dir="rtl" style="direction: rtl; text-align: right; padding-right: 1.5rem; padding-left: 0;">
-<li>أعلى سعر = 1.1659</li>
-<li>أدنى سعر = 1.1633</li>
-<li>سعر الإغلاق = 1.1648</li>
+<ul dir="rtl" align="right">
+<li dir="rtl" align="right">أعلى سعر = 1.1659</li>
+<li dir="rtl" align="right">أدنى سعر = 1.1633</li>
+<li dir="rtl" align="right">سعر الإغلاق = 1.1648</li>
 </ul>
 
 بتطبيق الصيغ:
 
-<ul dir="rtl" style="direction: rtl; text-align: right; padding-right: 1.5rem; padding-left: 0;">
-<li>نقطة الارتكاز = (1.1659 + 1.1633 + 1.1648) / 3 = 1.1647</li>
-<li>المقاومة الأولى = (2 × 1.1647) – 1.1633 = 1.1660</li>
-<li>المقاومة الثانية = 1.1647 + (1.1659 – 1.1633) = 1.1673</li>
-<li>الدعم الأول = (2 × 1.1647) – 1.1659 = 1.1634</li>
-<li>الدعم الثاني = 1.1647 – (1.1659 – 1.1633) = 1.1621</li>
+<ul dir="rtl" align="right">
+<li dir="rtl" align="right">نقطة الارتكاز = (1.1659 + 1.1633 + 1.1648) / 3 = 1.1647</li>
+<li dir="rtl" align="right">المقاومة الأولى = (2 × 1.1647) – 1.1633 = 1.1660</li>
+<li dir="rtl" align="right">المقاومة الثانية = 1.1647 + (1.1659 – 1.1633) = 1.1673</li>
+<li dir="rtl" align="right">الدعم الأول = (2 × 1.1647) – 1.1659 = 1.1634</li>
+<li dir="rtl" align="right">الدعم الثاني = 1.1647 – (1.1659 – 1.1633) = 1.1621</li>
 </ul>
 
 المستويات الخمسة الناتجة التي سيتم رسمها على الرسم البياني هي:
@@ -161,14 +126,14 @@ S2: 1.1621
 
 ---
 
-###  [هل أنت مستعد لبدء التداول؟](https://www.easy-markets.com/int/ar/)
+### [هل أنت مستعد لبدء التداول؟](https://www.easy-markets.com/int/ar/)
 
 مصادر إضافية:
 
-<ul dir="rtl" style="direction: rtl; text-align: right; padding-right: 1.5rem; padding-left: 0;">
-<li>[ابنِ استراتيجية تداول الأزواج مع easyMarkets](https://github.com/AhmedMTP/easyMarkets/blob/%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A/%D8%A3%D9%86%D8%B4%D8%A6%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9%20%D8%AA%D8%AF%D8%A7%D9%88%D9%84%20%D8%A7%D9%84%D8%A3%D8%B2%D9%88%D8%A7%D8%AC%20%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9%20%D8%A8%D9%83%20%D9%85%D8%B9%20%D8%A5%D9%8A%D8%B2%D9%8A%20%D9%85%D8%A7%D8%B1%D9%83%D8%AA%D8%B3.md)</li>
-<li>[التداول اليومي، والتداول المتأرجح، والتداول طويل الأجل مع easyMarkets](https://github.com/AhmedMTP/easyMarkets/blob/%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A/%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D9%88%D9%84%20%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D8%8C%20%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D9%88%D9%84%20%D8%A7%D9%84%D9%85%D8%AA%D8%A3%D8%B1%D8%AC%D8%AD%D8%8C%20%D9%88%D8%AA%D8%AF%D8%A7%D9%88%D9%84%20%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%83%D8%B2%20%D9%85%D8%B9%20%D8%A5%D9%8A%D8%B2%D9%8A%20%D9%85%D8%A7%D8%B1%D9%83%D8%AA%D8%B3%20.md)</li>
-<li>[كيفية استخدام الرافعة المالية في التداول: دليل مع easyMarkets](https://github.com/AhmedMTP/easyMarkets/blob/%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A/%D8%AF%D9%84%D9%8A%D9%84%20%D8%A5%D9%8A%D8%B2%D9%8A%20%D9%85%D8%A7%D8%B1%D9%83%D8%AA%D8%B3%20%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%20%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%B9%D8%A9%20%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D9%88%D9%84%20%20.md)</li>
+<ul dir="rtl" align="right">
+<li dir="rtl" align="right"><a href="https://github.com/AhmedMTP/easyMarkets/blob/%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A/%D8%A3%D9%86%D8%B4%D8%A6%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9%20%D8%AA%D8%AF%D8%A7%D9%88%D9%84%20%D8%A7%D9%84%D8%A3%D8%B2%D9%88%D8%A7%D8%AC%20%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9%20%D8%A8%D9%83%20%D9%85%D8%B9%20%D8%A5%D9%8A%D8%B2%D9%8A%20%D9%85%D8%A7%D8%B1%D9%83%D8%AA%D8%B3.md">ابنِ استراتيجية تداول الأزواج مع easyMarkets</a></li>
+<li dir="rtl" align="right"><a href="https://github.com/AhmedMTP/easyMarkets/blob/%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A/%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D9%88%D9%84%20%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D8%8C%20%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D9%88%D9%84%20%D8%A7%D9%84%D9%85%D8%AA%D8%A3%D8%B1%D8%AC%D8%AD%D8%8C%20%D9%88%D8%AA%D8%AF%D8%A7%D9%88%D9%84%20%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%83%D8%B2%20%D9%85%D8%B9%20%D8%A5%D9%8A%D8%B2%D9%8A%20%D9%85%D8%A7%D8%B1%D9%83%D8%AA%D8%B3%20.md">التداول اليومي، والتداول المتأرجح، والتداول طويل الأجل مع easyMarkets</a></li>
+<li dir="rtl" align="right"><a href="https://github.com/AhmedMTP/easyMarkets/blob/%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A/%D8%AF%D9%84%D9%8A%D9%84%20%D8%A5%D9%8A%D8%B2%D9%8A%20%D9%85%D8%A7%D8%B1%D9%83%D8%AA%D8%B3%20%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%20%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%B9%D8%A9%20%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D9%88%D9%84%20%20.md">كيفية استخدام الرافعة المالية في التداول: دليل مع easyMarkets</a></li>
 </ul>
 
 ![](https://github.com/user-attachments/assets/22d92937-13ad-45f3-9e80-fdf2affef360)

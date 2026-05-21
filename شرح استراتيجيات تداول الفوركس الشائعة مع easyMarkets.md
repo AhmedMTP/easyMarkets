@@ -91,6 +91,6 @@
 <li><a href="https://github.com/AhmedMTP/easyMarkets/blob/%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A/%D9%83%D9%8A%D9%81%D9%8A%D8%A9%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF%20%D9%86%D9%82%D8%A7%D8%B7%20%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81%20%D8%A7%D9%84%D8%B3%D9%88%D9%82.md">شرح تداول الانعكاس مع easyMarkets: كيفية تحديد نقاط انعطاف السوق</a></li>
 </ul>
 
-<div style="text-align: right;"><img src="https://github.com/user-attachments/assets/d5a80f3d-6689-4867-9168-6104b0867ac4" /></div>
+<p align="right"><img src="https://github.com/user-attachments/assets/d5a80f3d-6689-4867-9168-6104b0867ac4" /></p>
 
 </div>
